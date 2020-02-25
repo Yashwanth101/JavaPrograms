@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="858a58fc-565b-435a-9c31-cf1ad6ff0a73" name="Default Changelist" comment="" />
+    <list default="true" id="858a58fc-565b-435a-9c31-cf1ad6ff0a73" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programs/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programs/CountOfDigitsInInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programs/FebnochiSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programs/PalindromeWithNumberAndString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programs/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programs/SmallestAndLargestNumberInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programs/Reverse_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programs/Reverse_String.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="241" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -14,7 +28,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YIWNfbKFt0sioYkLmPFTJ1C1oG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,7 +40,84 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Application.BubbleSort">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programs.BubbleSort" />
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountOfDigitsInInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programs.CountOfDigitsInInteger" />
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FebnochiSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programs.FebnochiSeries" />
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PalindromeWithNumberAndString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programs.PalindromeWithNumberAndString" />
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programs.PrimeNumber" />
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.CountOfDigitsInInteger" />
+        <item itemvalue="Application.FebnochiSeries" />
+        <item itemvalue="Application.PrimeNumber" />
+        <item itemvalue="Application.PalindromeWithNumberAndString" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -38,6 +133,46 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="677" y="189" key="#Smallest&amp;LargestNumberInArray" timestamp="1582638881727">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="677" y="189" key="#Smallest&amp;LargestNumberInArray/0.0.1920.1040@0.0.1920.1040" timestamp="1582638881727" />
+    <state x="677" y="189" key="#SmallestNumberInArray" timestamp="1582638813411">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="677" y="189" key="#SmallestNumberInArray/0.0.1920.1040@0.0.1920.1040" timestamp="1582638813411" />
+    <state width="1876" height="276" key="GridCell.Tab.0.bottom" timestamp="1582645816665">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582645816665" />
+    <state width="1876" height="276" key="GridCell.Tab.0.center" timestamp="1582645816664">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="276" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582645816664" />
+    <state width="1876" height="276" key="GridCell.Tab.0.left" timestamp="1582645816664">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="276" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582645816664" />
+    <state width="1876" height="276" key="GridCell.Tab.0.right" timestamp="1582645816664">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="276" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582645816664" />
+    <state width="1876" height="341" key="GridCell.Tab.1.bottom" timestamp="1582642777886">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="341" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582642777886" />
+    <state width="1876" height="341" key="GridCell.Tab.1.center" timestamp="1582642777886">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="341" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582642777886" />
+    <state width="1876" height="341" key="GridCell.Tab.1.left" timestamp="1582642777885">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="341" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582642777885" />
+    <state width="1876" height="341" key="GridCell.Tab.1.right" timestamp="1582642777886">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="341" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582642777886" />
     <state x="642" y="126" key="SettingsEditor" timestamp="1582631195461">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -46,5 +181,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="661" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582630580258" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaPractise$Smallest_LargestNumberInArray.ic" NAME="Smallest&amp;LargestNumberInArray Coverage Results" MODIFIED="1582638834146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>programs.*</FILTER>
+    </SUITE>
   </component>
 </project>
