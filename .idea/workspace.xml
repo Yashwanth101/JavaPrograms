@@ -2,15 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="858a58fc-565b-435a-9c31-cf1ad6ff0a73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SeleniumPrograms/WebTableHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programs/ArmstrongNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programs/ConsecutiveNumberOf1sInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programs/ConvertDecimalToBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programs/DuplicateCharactersAndNumbersInAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programs/LongestSubStringInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programs/ReverseAStringAtSamePosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SeleniumPrograms/DatePickerHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SeleniumPrograms/DropDownHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programs/CharactersInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programs/DivideStringInEqualParts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programs/FirstUniqueCharacterInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programs/LeadersInAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programs/RemoveDuplicatesFromString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programs/ReturnHighestAndLowestNumberInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programs/ReverseAStringInSamePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programs/SortTheSentenceAccordingToTheLengthOfTheWord.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaPractise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPractise.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractise/programs/LongestSubStringInString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPractise/programs/LongestSubStringInString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programs/LongestSubStringInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programs/LongestSubStringInString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +50,9 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.LongestSubStringInString">
-    <configuration name="ArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programs.ArmstrongNumber" />
+  <component name="RunManager" selected="Application.CharactersInAString">
+    <configuration name="CharactersInAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programs.CharactersInAString" />
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -60,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConsecutiveNumberOf1sInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programs.ConsecutiveNumberOf1sInArray" />
+    <configuration name="FirstUniqueCharacterInAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programs.FirstUniqueCharacterInAString" />
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -73,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConvertDecimalToBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programs.ConvertDecimalToBinary" />
+    <configuration name="LeadersInAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programs.LeadersInAnArray" />
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -86,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DuplicateCharactersAndNumbersInAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programs.DuplicateCharactersAndNumbersInAString" />
+    <configuration name="ReturnHighestAndLowestNumberInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programs.ReturnHighestAndLowestNumberInString" />
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -99,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestSubStringInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programs.LongestSubStringInString" />
+    <configuration name="SortTheSentenceAccordingToTheLengthOfTheWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programs.SortTheSentenceAccordingToTheLengthOfTheWord" />
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -114,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LongestSubStringInString" />
-        <item itemvalue="Application.DuplicateCharactersAndNumbersInAString" />
-        <item itemvalue="Application.ConsecutiveNumberOf1sInArray" />
-        <item itemvalue="Application.ConvertDecimalToBinary" />
-        <item itemvalue="Application.ArmstrongNumber" />
+        <item itemvalue="Application.CharactersInAString" />
+        <item itemvalue="Application.ReturnHighestAndLowestNumberInString" />
+        <item itemvalue="Application.FirstUniqueCharacterInAString" />
+        <item itemvalue="Application.LeadersInAnArray" />
+        <item itemvalue="Application.SortTheSentenceAccordingToTheLengthOfTheWord" />
       </list>
     </recent_temporary>
   </component>
@@ -148,66 +152,52 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="942" y="306" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582710311532" />
-    <state width="1876" height="341" key="GridCell.Tab.0.bottom" timestamp="1582730764368">
+    <state width="1876" height="204" key="GridCell.Tab.0.bottom" timestamp="1582897236680">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="341" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582730764368" />
-    <state width="1876" height="341" key="GridCell.Tab.0.center" timestamp="1582730764368">
+    <state width="1876" height="204" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582897236680" />
+    <state width="1876" height="204" key="GridCell.Tab.0.center" timestamp="1582897236679">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="341" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582730764368" />
-    <state width="1876" height="341" key="GridCell.Tab.0.left" timestamp="1582730764367">
+    <state width="1876" height="204" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582897236679" />
+    <state width="1876" height="204" key="GridCell.Tab.0.left" timestamp="1582897236679">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="341" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582730764367" />
-    <state width="1876" height="341" key="GridCell.Tab.0.right" timestamp="1582730764368">
+    <state width="1876" height="204" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582897236679" />
+    <state width="1876" height="204" key="GridCell.Tab.0.right" timestamp="1582897236680">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="341" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582730764368" />
-    <state width="1876" height="341" key="GridCell.Tab.1.bottom" timestamp="1582730765488">
+    <state width="1876" height="204" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582897236680" />
+    <state width="1876" height="306" key="GridCell.Tab.1.bottom" timestamp="1582896929491">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="341" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582730765488" />
-    <state width="1876" height="341" key="GridCell.Tab.1.center" timestamp="1582730765488">
+    <state width="1876" height="306" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582896929491" />
+    <state width="1876" height="306" key="GridCell.Tab.1.center" timestamp="1582896929491">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="341" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582730765488" />
-    <state width="1876" height="341" key="GridCell.Tab.1.left" timestamp="1582730765488">
+    <state width="1876" height="306" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582896929491" />
+    <state width="1876" height="306" key="GridCell.Tab.1.left" timestamp="1582896929491">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="341" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582730765488" />
-    <state width="1876" height="341" key="GridCell.Tab.1.right" timestamp="1582730765488">
+    <state width="1876" height="306" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582896929491" />
+    <state width="1876" height="306" key="GridCell.Tab.1.right" timestamp="1582896929491">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="341" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582730765488" />
+    <state width="1876" height="306" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582896929491" />
     <state x="884" y="241" key="SettingsEditor" timestamp="1582728927589">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="884" y="241" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582728927589" />
-    <state x="661" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1582630580258">
+    <state x="661" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1582783203508">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="661" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582630580258" />
+    <state x="661" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582783203508" />
     <state x="631" y="118" width="658" height="804" key="find.popup" timestamp="1582728890886">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="631" y="118" width="658" height="804" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1582728890886" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/programs/LongestSubStringInString.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/programs/LongestSubStringInString.java</url>
-          <line>36</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="s[i].length()-1" />
