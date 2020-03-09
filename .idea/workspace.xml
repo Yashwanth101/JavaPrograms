@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="858a58fc-565b-435a-9c31-cf1ad6ff0a73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/programs/LargestCountOfTheConsecutiveNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programs/RemoveDuplicatesBasedOnKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Infomation Docs/~$va KeyPoints.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programs/GetDataFromTextFileAndFindLeastRepeatedWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programs/SmallLines.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programs/cvdvd.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infomation Docs/Java KeyPoints.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Infomation Docs/Java KeyPoints.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,22 +28,25 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YIWNfbKFt0sioYkLmPFTJ1C1oG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="D:/My Stuff/Selenium/selenium-server-standalone-3.14.0.jar!/" />
+    <property name="last_opened_file_path" value="D:/Framework/BASE_FRAMEWORK" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.RemoveDuplicatesBasedOnKey">
+  <component name="RunManager" selected="Application.cvdvd">
     <configuration name="CharactersInAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programs.CharactersInAString" />
       <module name="JavaPractise" />
@@ -54,8 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstUniqueCharacterInAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programs.FirstUniqueCharacterInAString" />
+    <configuration name="GetDataFromTextFileAndFindLeastRepeatedWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programs.GetDataFromTextFileAndFindLeastRepeatedWord" />
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -93,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReturnHighestAndLowestNumberInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programs.ReturnHighestAndLowestNumberInString" />
+    <configuration name="cvdvd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programs.cvdvd" />
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -108,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.cvdvd" />
+        <item itemvalue="Application.GetDataFromTextFileAndFindLeastRepeatedWord" />
         <item itemvalue="Application.RemoveDuplicatesBasedOnKey" />
         <item itemvalue="Application.LargestCountOfTheConsecutiveNumbers" />
         <item itemvalue="Application.CharactersInAString" />
-        <item itemvalue="Application.ReturnHighestAndLowestNumberInString" />
-        <item itemvalue="Application.FirstUniqueCharacterInAString" />
       </list>
     </recent_temporary>
   </component>
@@ -129,6 +135,9 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="677" y="189" key="#Smallest&amp;LargestNumberInArray" timestamp="1582638881727">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -142,50 +151,58 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="404" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1583246540911" />
-    <state x="942" y="306" key="FileChooserDialogImpl" timestamp="1582710311532">
+    <state x="942" y="306" key="FileChooserDialogImpl" timestamp="1583734916065">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="942" y="306" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582710311532" />
-    <state width="1876" height="332" key="GridCell.Tab.0.bottom" timestamp="1583249624680">
+    <state x="942" y="306" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583734916065" />
+    <state width="1320" height="332" key="GridCell.Tab.0.bottom" timestamp="1583499148101">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="332" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583249624680" />
-    <state width="1876" height="332" key="GridCell.Tab.0.center" timestamp="1583249624680">
+    <state width="1320" height="332" key="GridCell.Tab.0.bottom/0.0.1364.728@0.0.1364.728" timestamp="1583498925696" />
+    <state width="1320" height="332" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583499148101" />
+    <state width="1320" height="332" key="GridCell.Tab.0.center" timestamp="1583499148101">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="332" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583249624680" />
-    <state width="1876" height="332" key="GridCell.Tab.0.left" timestamp="1583249624679">
+    <state width="1320" height="332" key="GridCell.Tab.0.center/0.0.1364.728@0.0.1364.728" timestamp="1583498925696" />
+    <state width="1320" height="332" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583499148101" />
+    <state width="1320" height="332" key="GridCell.Tab.0.left" timestamp="1583499148101">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="332" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583249624679" />
-    <state width="1876" height="332" key="GridCell.Tab.0.right" timestamp="1583249624680">
+    <state width="1320" height="332" key="GridCell.Tab.0.left/0.0.1364.728@0.0.1364.728" timestamp="1583498925696" />
+    <state width="1320" height="332" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583499148101" />
+    <state width="1320" height="332" key="GridCell.Tab.0.right" timestamp="1583499148101">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="332" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583249624680" />
-    <state width="1876" height="306" key="GridCell.Tab.1.bottom" timestamp="1583249283983">
+    <state width="1320" height="332" key="GridCell.Tab.0.right/0.0.1364.728@0.0.1364.728" timestamp="1583498925696" />
+    <state width="1320" height="332" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583499148101" />
+    <state width="1876" height="306" key="GridCell.Tab.1.bottom" timestamp="1583392059036">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="306" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583249283983" />
-    <state width="1876" height="306" key="GridCell.Tab.1.center" timestamp="1583249283983">
+    <state width="1876" height="306" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583392059036" />
+    <state width="1876" height="306" key="GridCell.Tab.1.center" timestamp="1583392059036">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="306" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583249283983" />
-    <state width="1876" height="306" key="GridCell.Tab.1.left" timestamp="1583249283983">
+    <state width="1876" height="306" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583392059036" />
+    <state width="1876" height="306" key="GridCell.Tab.1.left" timestamp="1583392059036">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="306" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583249283983" />
-    <state width="1876" height="306" key="GridCell.Tab.1.right" timestamp="1583249283983">
+    <state width="1876" height="306" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583392059036" />
+    <state width="1876" height="306" key="GridCell.Tab.1.right" timestamp="1583392059036">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="306" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583249283983" />
+    <state width="1876" height="306" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583392059036" />
+    <state x="625" y="217" key="NewModule_or_Project.wizard" timestamp="1583476964615">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="625" y="217" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1583476964615" />
     <state x="884" y="241" key="SettingsEditor" timestamp="1582728927589">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="884" y="241" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582728927589" />
-    <state x="661" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1583155795241">
+    <state x="661" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1583418386061">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="661" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583155795241" />
+    <state x="661" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583418386061" />
     <state x="631" y="118" width="658" height="804" key="find.popup" timestamp="1582728890886">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
